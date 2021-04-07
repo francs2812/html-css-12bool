@@ -1,0 +1,13 @@
+.container p {
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+}
+
+#nested [class *= "col-"] {
+    border: 1px solid white;
+    background-color: rgb(240, 127, 128);
+}
+#nested {
+    padding: 5px;
+}
